@@ -129,7 +129,7 @@ We might make mistakes or there might be something missing. If you spot any erro
 
 We also welcome any good suggestions. If you have any suggestions for this repository, please [Request Feature](https://github.com/Liping-LZ/awesome-DSDO/issues/new?labels=enhancement&template=feature-request---.md) to tell us what you would like us to add to this repository.
 
-You could email me at liping.zheng.1@warwick.ac.uk for any other requests. I am more than happy to have a chat with you and update the repository. 
+You could also email me at liping.zheng.1@warwick.ac.uk for any other requests. I am more than happy to have a chat with you and update the repository. 
 
 ### Top contributors:
 
