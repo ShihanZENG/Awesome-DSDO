@@ -90,13 +90,13 @@ Here is a quick instruction on how you can better use this repository.
 
 ### Prerequisites
 
-This repository is mainly for MSc e-Business Management stduents, specifically stduents from DSDO specialism. 
+This repository is mainly for MSc e-Business Management students, specifically students from DSDO specialism. 
 For using this repository, we assume that you have basic knowledge about Python and data science. 
 This repository is not replacing the module content, but as additional resources for DSDO students. 
 
 ### Installation
 
-All the resources are Python based. You are expected to install Python locally or have access to Python IDE on cloud. Please check the below tutorial for Python installation.
+All the resources are Python-based. You are expected to install Python locally or have access to Python IDE on cloud. Please check the below tutorial for Python installation.
 
 
 <!-- ROADMAP -->
@@ -125,7 +125,11 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 We will continue updating this repository to make it better, and we'd love to hear your feedback.
 
-We might make mistakes or there might be something missing. If you spot any errors or have any suggestions for adding resources, please email liping.zheng.1@warwick.ac.uk. I am more than happy to have a chat with you and update the repository. 
+We might make mistakes or there might be something missing. If you spot any errors or bugs, please [Report Bug](https://github.com/Liping-LZ/awesome-DSDO/issues/new?labels=bug&template=bug-report---.md) and describe the issues and submit the report. You could also click the "Report Bug" button on the top. 
+
+We also welcome any good suggestions. If you have any suggestions for this repository, please [Request Feature](https://github.com/Liping-LZ/awesome-DSDO/issues/new?labels=enhancement&template=feature-request---.md) to tell us what you would like us to add to this repository.
+
+You could email me at liping.zheng.1@warwick.ac.uk for any other requests. I am more than happy to have a chat with you and update the repository. 
 
 ### Top contributors:
 
