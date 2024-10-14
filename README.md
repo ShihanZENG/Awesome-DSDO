@@ -94,25 +94,72 @@ This repository is mainly for MSc e-Business Management students, specifically s
 For using this repository, we assume that you have basic knowledge about Python and data science. 
 This repository is not replacing the module content, but as additional resources for DSDO students. 
 
-### Installation
+### Installing Python
 
-All the resources are Python-based. You are expected to install Python locally or have access to Python IDE on cloud. Please check the below tutorial for Python installation.
+All the resources are Python-based. You are expected to install Python locally or have access to Python IDE on Cloud. Please check the below tutorial for Python installation.
+
+#### Setting Up Your Programming Environment
+
+A programming environment is a space where you write, test, and run your code. Think of it as a workshop where you have all the tools you need to build and test your projects.
+
+*Local vs. Online Environments*
+
+You have two main choices:
+
+Local Environment: This is set up on your own computer. You'll need to install some software.
+Online Environment: This is hosted on the web. No installations needed. Just open a browser, go to a website, and start coding.
+
+*Python Files vs. Python Notebooks*
+
+You may use two types of Python files:
+
+Python File (.py): This is a standard file where you write Python code. It's like a text document but for Python scripts.
+Python Notebook (.ipynb): This is an interactive document where you can mix text, code, and outputs. It's great for experiments, data analysis, and teaching.
+
+#### Using Online Environment for Running Python
+In most of the DSDO modules, we will be using online environment (Google Colab) since it is easy to access and does not require any complex installation. And we will be using Python notebook since Colab basically is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs.
+
+In Google Colab, you are writing your codes in Jupyter Notebook, but you are able to download your codes into either types of file (.py or .ipynb). Just click "File" on the menu and then move to "Download" in the drop-down menu and you should see two options - "Download .ipynb" and "Download .py". And then you can choose what you want. If you are running your codes through Terminal in your local machine, .py file is usually recommended. Also, if you are building web apps in Python, .py file is also recommended. In most of cases, you can use notebook file directly for coding and saving file.
+
+The DSDO tutors will be mainly sharing the codes through Google Colab and GitHub, so you can directly open the codes in Colab and then save the codes to your Google Drive or download the codes. 
+
+#### Setting Up Your Local Programming Environment
+
+Online environment might not be ideal. If you have more resources in your own machine, you might prefer to run the program locally on your own machine. 
+
+If you want to run locally, here is the guidance:
+
+*Option 1: Installing Anaconda and Python and use Jupyter Notebook*
+
+We are recommending installl Python through Anaconda distribution. This will simplify the package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS. This will make it much easier to install and use python and other add-ons.
+
+Firstly, visit https://www.anaconda.com/download from your browser of choice. The correct version for your operating system (Windows or Mac or Linux) can be selected (if this does not happen automatically) by clicking on the appropriate logo at the top of the page. Irrespective of your operation system, you are suggested to choose graphical installer. For Windows, select the appropriate bit-type for your machine (usually 64-bits), and for Mac select the appropriate one depending on whether you are using Macbook with Intel processor or with Apple silicon (introduced in 2021 or later).
+
+Once it is downloaded, run the downloaded executable file to start installing. Follow the on-screen instructions and accept the default settings.Once the installation is complete, launch Anaconda Navigator from the Start menu.Here we recommend you use Jupyter Notebook to start coding. Once the Anaconda Navigator is launched, you should be able to see "Jupyter Notebook" on the menu. Simply click "Launch", you will see a kernel window (terminal window) starts first and then a browser window where you will be able to create folder and file to edit and run codes.
+
+With Anaconda, you can also access other text editor or IDE to edit and run your codes. For example, you can also use VSCode, or PyCharm or Spyder, up to your choice.
+
+*Option 2: Installing Python independently*
+
+1) Go to Python's official website. Download the latest version.
+2) Run the installer and follow the prompts.
+3) Using a Text Editor with Python
+
+While installing Python provides you with the essential tools to run and execute scripts, it's highly recommended to use a text editor alongside it.
+
+A text editor is a software application that allows you to write and edit plain text files. Unlike word processors, text editors don't add formatting to text, making them ideal for coding. They often come with features like syntax highlighting, line numbering, and auto-completion, which can significantly enhance your coding experience and efficiency.
+
+Microsoft VSCode (https://code.visualstudio.com/) is one of the recommendations that you can go for. It's free and lightweight. But it has many extensions. You can add tools for almost any coding task. Plus, it works with Python notebooks, making it a viable option for students on either specialism.
+
+You can also use Sublime Text (https://www.sublimetext.com/), which is very easy to use and very lightweight.
+
+If you are a beginner, we would suggest you install through Anaconda as it comes with lots of ready-to-use libraries and packages and it reduces lots of efforts.
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- How-to-guide -->
+## How you should use the resources
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- RESOURCES -->
 ## Resources
