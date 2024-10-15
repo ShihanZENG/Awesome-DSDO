@@ -83,21 +83,21 @@ Please jump into the next section to get started.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+# Getting Started
 
 Here is a quick instruction on how you can better use this repository. 
 
-### Prerequisites
+## Prerequisites
 
 This repository is mainly for MSc e-Business Management students, specifically students from DSDO specialism. 
 For using this repository, we assume that you have basic knowledge about Python and data science. 
 This repository is not replacing the module content, but as additional resources for DSDO students. 
 
-### Installing Python
+## Installing Python
 
 All the resources are Python-based. You are expected to install Python locally or have access to Python IDE on Cloud. Please check the below tutorial for Python installation.
 
-#### Setting Up Your Programming Environment
+### Setting Up Your Programming Environment
 
 A programming environment is a space where you write, test, and run your code. Think of it as a workshop where you have all the tools you need to build and test your projects.
 
@@ -115,14 +115,14 @@ You may use two types of Python files:
 Python File (.py): This is a standard file where you write Python code. It's like a text document but for Python scripts.
 Python Notebook (.ipynb): This is an interactive document where you can mix text, code, and outputs. It's great for experiments, data analysis, and teaching.
 
-#### Using Online Environment for Running Python
+### Using Online Environment for Running Python
 In most of the DSDO modules, we will be using online environment (Google Colab) since it is easy to access and does not require any complex installation. And we will be using Python notebook since Colab basically is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs.
 
 In Google Colab, you are writing your codes in Jupyter Notebook, but you are able to download your codes into either types of file (.py or .ipynb). Just click "File" on the menu and then move to "Download" in the drop-down menu and you should see two options - "Download .ipynb" and "Download .py". And then you can choose what you want. If you are running your codes through Terminal in your local machine, .py file is usually recommended. Also, if you are building web apps in Python, .py file is also recommended. In most of cases, you can use notebook file directly for coding and saving file.
 
 The DSDO tutors will be mainly sharing the codes through Google Colab and GitHub, so you can directly open the codes in Colab and then save the codes to your Google Drive or download the codes. 
 
-#### Setting Up Your Local Programming Environment
+### Setting Up Your Local Programming Environment
 
 Online environment might not be ideal. If you have more resources in your own machine, you might prefer to run the program locally on your own machine. 
 
@@ -156,18 +156,11 @@ If you are a beginner, we would suggest you install through Anaconda as it comes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- How-to-guide -->
-## How to use the resources
-
-Stage 1: Learn Python
-Stage 2: Familarise 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- RESOURCES -->
-## Resources
+# Resources
 
-### Learn Python
+## Learn Python
 According to the 2024 Developer Survey (Stack Overflow, 2024)(https://survey.stackoverflow.co/2024/technology#most-popular-technologies-language), Python is ranked No.3 as one of the most used programming languages in the developer community. Specifically, this survey revealed that Python is also the most learned coding language, which reflects the high demand of Python in the market. 
 
 Learning a new programming language requires long-term commitment. Building a good foundation at the very beginning and keeping up on practicing would be the key to the success. Here are some suggestions for you to learn Python, along with different resources. 
@@ -195,11 +188,11 @@ Learning a new programming language requires long-term commitment. Building a go
 **Except for knowing the Python concepts, you also need to know the good practice of Python coding.**
 Please read the [pep8 rules](https://pep8.org/?ref=blog.paperspace.com). It is important to know how to write and style python correctly.
 
-### Learn Data Science
+## Learn Data Science
 
 Data Science is a interdisciplinary subject, including different areas such as maths & statistics, big data & analytics, AI and machine learning. We will introduce different data science resources by topics.
 
-#### Maths and Statistics
+### Maths and Statistics
 
 Mathematics builds foundation for you to learn machine learning, so make sure you understand the basics well. Generally, what you have done in high school and Bachelor university should be enough for you to start machine learning. If you would like to further check, there are some areas you should look for.
 
@@ -213,20 +206,20 @@ If you prefer a simple and light-weighted read alongside your statistics module,
 
 - [Naked statistics: stripping the dread from the data](https://go.exlibris.link/G0VChB7W)
 
-#### Big Data & Analytics
+### Big Data & Analytics
 
 We will cover big data pipeple in the BDAO module and you will have chance to learn different concepts with big data including types of data, data retrieval, database for data data storage, data processing techniques, analytics and visualisation. There will be practical sessions for you to apply what you learn. 
 
 If you would like to have some first ideas about big data and some key techniques, I am suggesting some extra reading for you.
 
-**Big Data**
+#### Big Data
 
 - [Big data: a revolution that will transform how we live, work, and think](https://go.exlibris.link/prCktgtH) - This is an enjoyable read because there are lots of story-telling to explore the impact of big data. The only drawback is that this book is published over 10 years ago, so some views might be outdated. But still think it could be quick read to understand big data.
 - [Data Strategy : How to Profit from a World of Big Data, Analytics and Artificial Intelligence](https://go.exlibris.link/T9jzvT4d) - This book provides some interesting perspectives on how to source, use, manage and monetising data. The author Bernard Marr is quite well knowned in this area. He wrote a few books on big data.
 - [Big data in practice](https://go.exlibris.link/nBwqXBTn) - If you like to read some real-world examples to understand the impacts of big data, then this is the book for you. This books is talking about how 45 successful companies used big data analytics to deliver extraordinary results.
 - [Storytelling with data: a data visualization guide for business professionals](https://go.exlibris.link/Sn14p4Pt) -  This book could be an easy read for understanding the role of data visualisation for presenting insights from data. We will cover more about data visualisation in class and you have lots of chances to practice data visualisation in BDAO module. 
 
-**SQL (Structured Query Language)**
+#### SQL (Structured Query Language)
 
 We will be covering SQL in BDAO module and give you chances to use it in the project. However, you might wish to learn it beforehand. Here are some recommended resources for you. 
 
@@ -235,16 +228,16 @@ We will be covering SQL in BDAO module and give you chances to use it in the pro
 
 There are also free online tutorials that you could follow, such as this free tutorial: [SQL Tutorial](https://www.sqltutorial.org/)
 
-#### AI, Machine Learning & Deep Learning
+### AI, Machine Learning & Deep Learning
 
-**Artificial Intelligence**
+#### Artificial Intelligence
 
 AI is a hot topic in recent years, thought it could be dated back to 1950s when we first time talk about AI. Here are some free resources available online for you to choose. However, most of them require register and login, so it is up to you whether you would like to go for them. The courses are mostly built by industry experts, so they tend to be more practical and easy to understand. 
 
 [Building AI](https://buildingai.elementsofai.com/) - Building AI is a free online course where you'll learn about the actual algorithms that make creating AI methods possible.
 [IBM's AI courses](https://cognitiveclass.ai/courses?type%5B%5D=all&sort%5B%5D=featured&topic%5B%5D=Artificial+Intelligence)) - Cognitiveclass.ai is a learning platplatform developed by IBM, which provides various courses on AI, Data Science and other emerging technologies. There are a bunch of free AI sources available on the platform labelled with difficulty level, so you can find anything suited your need. 
 
-**Machine Learning**
+#### Machine Learning
 
 You will learn all the key ceoncepts and techniques of machine learning in DSML module. As long as you follow the module and practices of skills in your spare time, that should be enough for you learn the machine learning basics. 
 
@@ -258,14 +251,14 @@ Once you have a good theoretical and practical understanding of Machine Learning
 - [Kaggle](https://www.kaggle.com/) is a data science community with different datasets and projects. And it is a great platform to apply what you have learned. You could start with some classic and simple projects and learn from others. For example, you could start with the [Titanic Classification](https://www.kaggle.com/c/titanic?ref=blog.paperspace.com) challenge on Kaggle and play around with the data and plug and play different Machine Learning models. There are also lots of coders sharing their solutions in Kaggle, so you can check other people's work and learn different techniques. You could build up your own porfolio by doing projects in Kaggle.
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/) is a great platform maintaining 670 datasets as a service to the machine learning community. You could find lots of datasets suitable for build your first machine leraning projects. Since it is a very popular platform for finding dataset within the machine learning community, you could find lots of examples on the internet if you would like to learn from others.
 
-**Deep Learning**
+#### Deep Learning
 
 Deep learning is a subset of machine learning, including more advanced techniques in AI area. You should have chance to know some basics of deep learning in your DSML module. But if you would like some extra learning materials to explore deep learning further, here are some free resources that you could use. 
 
 - [Intro to Deep Learning using Tensorflow and Keras Course at Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning)
 - [Free online deep learning course](https://course.fast.ai/) - This fast.ai course is a practical Deep Learning course, which is designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems. This course covers more depth and more practical content.
 
-**Other extra resources for AI, machine learning and deep learning**
+#### Other extra resources for AI, machine learning and deep learning
 
 ***YouTube channels*** - Watching YouTube videos could be an easy way to learn some practical concepts. It is usually more engaging and also free to access. However, they are more for personal use and not recommended to use as reference in your academic work. Below are some recommended channels from big tech companies - Google, Amazon & Microsoft. There are more other channels that you could explore further.
 
@@ -297,7 +290,7 @@ Deep learning is a subset of machine learning, including more advanced technique
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-## Contributing
+# Contributing
 
 We will continue updating this repository to make it better, and we'd love to hear your feedback.
 
@@ -307,7 +300,7 @@ We also welcome any good suggestions. If you have any suggestions for this repos
 
 You could also email me at liping.zheng.1@warwick.ac.uk for any other requests. I am more than happy to have a chat with you and update the repository. 
 
-### Top contributors:
+## Top contributors:
 
 <a href="https://github.com/Liping-LZ/awesome-DSDO/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Liping-LZ/awesome-DSDO" alt="contrib.rocks image" />
@@ -318,7 +311,7 @@ You could also email me at liping.zheng.1@warwick.ac.uk for any other requests. 
 
 
 <!-- LICENSE -->
-## License
+# License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
@@ -327,7 +320,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 Liping Zheng - liping.zheng.1@warwick.ac.uk
 
@@ -337,7 +330,7 @@ Liping Zheng - liping.zheng.1@warwick.ac.uk
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+# Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
