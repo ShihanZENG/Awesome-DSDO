@@ -231,7 +231,7 @@ There are also free online tutorials that you could follow, such as this free tu
 AI is a hot topic in recent years, thought it could be dated back to 1950s when we first time talk about AI. Here are some free resources available online for you to choose. However, most of them require register and login, so it is up to you whether you would like to go for them. The courses are mostly built by industry experts, so they tend to be more practical and easy to understand. 
 
 - [Building AI](https://buildingai.elementsofai.com/) - Building AI is a free online course where you'll learn about the actual algorithms that make creating AI methods possible.
-- [IBM's AI courses](https://cognitiveclass.ai/courses?type%5B%5D=all&sort%5B%5D=featured&topic%5B%5D=Artificial+Intelligence)) - Cognitiveclass.ai is a learning platplatform developed by IBM, which provides various courses on AI, Data Science and other emerging technologies. There are a bunch of free AI sources available on the platform labelled with difficulty level, so you can find anything suited your need. 
+- [IBM's AI courses](https://cognitiveclass.ai/courses?type%5B%5D=all&sort%5B%5D=featured&topic%5B%5D=Artificial+Intelligence) - Cognitiveclass.ai is a learning platplatform developed by IBM, which provides various courses on AI, Data Science and other emerging technologies. There are a bunch of free AI sources available on the platform labelled with difficulty level, so you can find anything suited your need. 
 
 #### Machine Learning
 
