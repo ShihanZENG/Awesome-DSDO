@@ -48,11 +48,15 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#installing Python">Installing Python</a></li>
       </ul>
     </li>
     <li><a href="#resources">Resources</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+      <ul>
+        <li><a href="#learnpython">Learn Python</a></li>
+        <li><a href="#learndatascience">Learn Data Science</a></li>
+      </ul>
+    <li><a href="#contribution">Contribution</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -286,7 +290,7 @@ Deep learning is a subset of machine learning, including more advanced technique
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-# Contributing
+# Contribution
 
 We will continue updating this repository to make it better, and we'd love to hear your feedback.
 
@@ -296,7 +300,7 @@ We also welcome any good suggestions. If you have any suggestions for this repos
 
 You could also email me at liping.zheng.1@warwick.ac.uk for any other requests. I am more than happy to have a chat with you and update the repository. 
 
-## Top contributors:
+## Top contributor(s):
 
 <a href="https://github.com/Liping-LZ/awesome-DSDO/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Liping-LZ/awesome-DSDO" alt="contrib.rocks image" />
