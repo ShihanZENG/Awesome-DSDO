@@ -68,7 +68,7 @@ Welcome to Data Science and Digital Operations specialism!
 
 I am creating this repository to put together useful open-source resources for you to learn Python coding and enhance your data science skills. Here are two main sections in this repository: one for coding and another for data science. Please start with programming and use these resources as complementary resources to your module content. You are expected to check these learning materials independently in your spare time outside the class. And this is not a compulsory task for you to complete your degree. It's all up to you how you would use the resources provided to you. 
 
-I have categorised the resources to help you find out the right resources you need. There might be overlaps in terms of content, so you do not have to go through all the materials one by one. I have highlighted some particular resources as highly recommended, thus you can start with those resources if that's easier for you. 
+I have categorised the resources to help you find out the right resources you need. There might be overlaps in terms of content, so you do not have to go through all the materials one by one. I have provided some more information about the shared resources and how you could use them. Please read them before using the resources.
 
 This repository will be open to all DSDO students throughout the academic year. If there are more students from other specialisms in eBM who are interested in learning Python and data science, feel free to share this repository with them. 
 
