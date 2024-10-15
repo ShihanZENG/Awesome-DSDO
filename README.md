@@ -155,17 +155,145 @@ You can also use Sublime Text (https://www.sublimetext.com/), which is very easy
 
 If you are a beginner, we would suggest you install through Anaconda as it comes with lots of ready-to-use libraries and packages and it reduces lots of efforts.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- How-to-guide -->
-## How you should use the resources
+## How to use the resources
 
+Stage 1: Learn Python
+Stage 2: Familarise 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- RESOURCES -->
 ## Resources
 
-### Learning Python
-According to the 2024 Developer Survey (Stack Overflow, 2024)(https://survey.stackoverflow.co/2024/technology#most-popular-technologies-language), Python is ranked No.3 as one of the most used programming languages in the developer community. Specifically, this survey revealed that Python is also the most learned coding language as it might be one of 
+### Learn Python
+According to the 2024 Developer Survey (Stack Overflow, 2024)(https://survey.stackoverflow.co/2024/technology#most-popular-technologies-language), Python is ranked No.3 as one of the most used programming languages in the developer community. Specifically, this survey revealed that Python is also the most learned coding language, which reflects the high demand of Python in the market. 
+
+Learning a new programming language requires long-term commitment. Building a good foundation at the very beginning and keeping up on practicing would be the key to the success. Here are some suggestions for you to learn Python, along with different resources. 
+
+**If this is the first time you learn Python, I would suggest you start with the recommended book and eBM Python Bootcamp material designed by Jordan.**
+- eBM Python Bootcamp: To be released on week 4 of eBF. Stay tuned.
+- Recommended Python book:
+  - [Python Crash Course](https://go.exlibris.link/TpWFr087)
+  - [Learn Python the hard way](https://go.exlibris.link/TpWFr087)
+  
+  *Python Crash Course* is an awesome resource for Python beginners and is very hands-on and project-driven. It is brief and to the point. However, it might be quite fast-paced as you learn a lot at once in each chapter. If you prefer fast-paced learning or you have learned Python a bit previously and now you want to quickly refresh your knowledge and skills, then this book would be a great choice for you. *Learn Python the hard way* is another good book for learning Python, but what is different is that it contains lots of chapters and each chapter is not very packed. You will be learning through repetition. This would be great to further enhance your learning in the process.
+  You do not have to read both books because there might be overlaps and it could be a waste of time. Just pick one as you prefer. Both books can be found in the library. Online links are shared above.
+
+**If you prefer a more interactive way to learn coding, here are some other resources recommended to you.**
+- [Futurecoder](https://futurecoder.io/) — This is a free and open-source platform and course for complete beginners to teach themselves programming in Python. It includes integrated debuggers, enhanced tracebacks, hints for exercises and more.
+- [Tutor-edited Google Colab Python notebook]() - This is edited by eBM tutors and to provide students to learn to code in Python within Google Colab platform. Students are not required to install Python and no resources will be needed from local machines. This tutorial covers all the basic concepts of Python, alongside three exercises with answer. 
+
+**If you have learned Python basics and you would like to enhance your skill, I would suggest you learn through doing small projects or you can jump into leaning data science directly.**
+- [Tiny Python Projects](https://go.exlibris.link/0LJXNzcV) - This book is different from other books, which provides different projects for you to learn coding with Python. There are different projects in different level and you can pick up those you are interested in or you would like to challenge yourself. Thus, the way to use the book can be flexibile.
+
+**You could keep practicing in your spare time by solving some Python problems like doing exercises.**
+- [Hackerrank](https://www.hackerrank.com/domains/python) - Hackerrank is my personal preference as it does not require any register or login. You can open it and do solve problems any time you want. There are also different levels of problems. If you are preparing coding test in job seeking, this could be good practices for you. The industry used platform for coding test is [LeetCode](https://leetcode.com/).
+- There are also some gaming-based platforms for practice, such as [Coding Game](https://www.codingame.com/start/), [Code Combat](https://codecombat.com/). Take what you prefer.
+
+**Except for knowing the Python concepts, you also need to know the good practice of Python coding.**
+Please read the [pep8 rules](https://pep8.org/?ref=blog.paperspace.com). It is important to know how to write and style python correctly.
+
+### Learn Data Science
+
+Data Science is a interdisciplinary subject, including different areas such as maths & statistics, big data & analytics, AI and machine learning. We will introduce different data science resources by topics.
+
+#### Maths and Statistics
+
+Mathematics builds foundation for you to learn machine learning, so make sure you understand the basics well. Generally, what you have done in high school and Bachelor university should be enough for you to start machine learning. If you would like to further check, there are some areas you should look for.
+
+- Linear Algebra
+- Calculus
+- Probability
+
+Statistics is also very important for learning machine learning. You will be learning stastics in class in PSWS module, so you could just follow the module pace to equip yourself with stastics key concepts. Learning statistics well will help you better understand machine learning models and know to optimise the models with good understanding of parameters. 
+
+If you prefer a simple and light-weighted read alongside your statistics module, here is the recommendation:
+
+- [Naked statistics: stripping the dread from the data](https://go.exlibris.link/G0VChB7W)
+
+#### Big Data & Analytics
+
+We will cover big data pipeple in the BDAO module and you will have chance to learn different concepts with big data including types of data, data retrieval, database for data data storage, data processing techniques, analytics and visualisation. There will be practical sessions for you to apply what you learn. 
+
+If you would like to have some first ideas about big data and some key techniques, I am suggesting some extra reading for you.
+
+**Big Data**
+
+- [Big data: a revolution that will transform how we live, work, and think](https://go.exlibris.link/prCktgtH) - This is an enjoyable read because there are lots of story-telling to explore the impact of big data. The only drawback is that this book is published over 10 years ago, so some views might be outdated. But still think it could be quick read to understand big data.
+- [Data Strategy : How to Profit from a World of Big Data, Analytics and Artificial Intelligence](https://go.exlibris.link/T9jzvT4d) - This book provides some interesting perspectives on how to source, use, manage and monetising data. The author Bernard Marr is quite well knowned in this area. He wrote a few books on big data.
+- [Big data in practice](https://go.exlibris.link/nBwqXBTn) - If you like to read some real-world examples to understand the impacts of big data, then this is the book for you. This books is talking about how 45 successful companies used big data analytics to deliver extraordinary results.
+- [Storytelling with data: a data visualization guide for business professionals](https://go.exlibris.link/Sn14p4Pt) -  This book could be an easy read for understanding the role of data visualisation for presenting insights from data. We will cover more about data visualisation in class and you have lots of chances to practice data visualisation in BDAO module. 
+
+**SQL (Structured Query Language)**
+
+We will be covering SQL in BDAO module and give you chances to use it in the project. However, you might wish to learn it beforehand. Here are some recommended resources for you. 
+
+- [Practical SQL](https://go.exlibris.link/w4j31vby) - Practical SQL is an approachable and fast-paced guide to SQL (Structured Query Language), the standard programming language for defining, organizing, and exploring data in relational databases. 
+- Optional: Sams Teach Yourself SQL in 10 Minutes - This is a book for learning SQL basics. It is designed for beginners to learn SQL and it is very easy to understand. However, this book is not available in the university library. You would need to buy it from Amazon or from second-hand book shops if you would like to have one for yourself.
+
+There are also free online tutorials that you could follow, such as this free tutorial: [SQL Tutorial](https://www.sqltutorial.org/)
+
+#### AI, Machine Learning & Deep Learning
+
+**Artificial Intelligence**
+
+AI is a hot topic in recent years, thought it could be dated back to 1950s when we first time talk about AI. Here are some free resources available online for you to choose. However, most of them require register and login, so it is up to you whether you would like to go for them. The courses are mostly built by industry experts, so they tend to be more practical and easy to understand. 
+
+[Building AI](https://buildingai.elementsofai.com/) - Building AI is a free online course where you'll learn about the actual algorithms that make creating AI methods possible.
+[IBM's AI courses](https://cognitiveclass.ai/courses?type%5B%5D=all&sort%5B%5D=featured&topic%5B%5D=Artificial+Intelligence)) - Cognitiveclass.ai is a learning platplatform developed by IBM, which provides various courses on AI, Data Science and other emerging technologies. There are a bunch of free AI sources available on the platform labelled with difficulty level, so you can find anything suited your need. 
+
+**Machine Learning**
+
+You will learn all the key ceoncepts and techniques of machine learning in DSML module. As long as you follow the module and practices of skills in your spare time, that should be enough for you learn the machine learning basics. 
+
+If you would like take some free online courses for learning machine learning in your spare time, here is the recommendation.
+
+- [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+  This course covers practical introduction to machine learning, featuring a series of lessons with video lectures, interactive visualizations, and hands-on practice exercises.
+  
+Once you have a good theoretical and practical understanding of Machine Learning. You could get hands on some practical projects to apply what you have learned. 
+
+- [Kaggle](https://www.kaggle.com/) is a data science community with different datasets and projects. And it is a great platform to apply what you have learned. You could start with some classic and simple projects and learn from others. For example, you could start with the [Titanic Classification](https://www.kaggle.com/c/titanic?ref=blog.paperspace.com) challenge on Kaggle and play around with the data and plug and play different Machine Learning models. There are also lots of coders sharing their solutions in Kaggle, so you can check other people's work and learn different techniques. You could build up your own porfolio by doing projects in Kaggle.
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/) is a great platform maintaining 670 datasets as a service to the machine learning community. You could find lots of datasets suitable for build your first machine leraning projects. Since it is a very popular platform for finding dataset within the machine learning community, you could find lots of examples on the internet if you would like to learn from others.
+
+**Deep Learning**
+
+Deep learning is a subset of machine learning, including more advanced techniques in AI area. You should have chance to know some basics of deep learning in your DSML module. But if you would like some extra learning materials to explore deep learning further, here are some free resources that you could use. 
+
+- [Intro to Deep Learning using Tensorflow and Keras Course at Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning)
+- [Free online deep learning course](https://course.fast.ai/) - This fast.ai course is a practical Deep Learning course, which is designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems. This course covers more depth and more practical content.
+
+**Other extra resources for AI, machine learning and deep learning**
+
+***YouTube channels*** - Watching YouTube videos could be an easy way to learn some practical concepts. It is usually more engaging and also free to access. However, they are more for personal use and not recommended to use as reference in your academic work. Below are some recommended channels from big tech companies - Google, Amazon & Microsoft. There are more other channels that you could explore further.
+
+- [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/videos)
+- [Amazon - Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
+- [Microsoft Research](https://www.youtube.com/user/MicrosoftResearch)
+
+***Blogs*** - It is always nice to hear some fresh thoughts on different topics within the data science community. They could be some sharing of practical skills or some personal views/thoughts on some recent news or trending technologies. It is great to get inspired through blogs. However, do not cite them as reference in your academic work because they might not be credible enough.
+
+- [Towards Data Science](https://towardsdatascience.com/)
+- [Towards Machine Learning](https://towardsml.com/)
+- [Towards AI](https://medium.com/towards-artificial-intelligence)
+- [MIT News](https://news.mit.edu/topic/artificial-intelligence2)
+- [Becoming HumanAI](https://becominghuman.ai)
+- [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
+
+***AI research in big companies*** - AI is the area with quick changes, so it is crucial to keep up on trends. Big companies are always leading the way as they are having very strong teams for research and tests on new technology and new areas. Here are some company websites you could follow.
+
+- [Machine Learning at Apple](https://machinelearning.apple.com/)
+- [AI at Uber](https://www.uber.com/us/en/uberai/)
+- [AI at Microsoft](https://www.microsoft.com/en-us/ai)
+- [AI Research at Google](https://ai.google/research/)
+- [AI Research at Huawei](https://www.huawei.com/en/industry-insights/technology/ai)
+- [Amazon Science](https://www.amazon.science/)
+- [AI at Alibaba](https://damo.alibaba.com/labs/ai)
+- [Data Science at Gojek](https://blog.gojekengineering.com/data-science/home)
+- [Autopilot AI at Tesla](https://www.tesla.com/autopilotAI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
