@@ -51,7 +51,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#resources">Resources</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -63,7 +62,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 Welcome to Data Science and Digital Operations specialism! 
 
