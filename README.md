@@ -48,13 +48,13 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installing Python">Installing Python</a></li>
+        <li><a href="#installing-python">Installing Python</a></li>
       </ul>
     </li>
     <li><a href="#resources">Resources</a></li>
       <ul>
-        <li><a href="#learnpython">Learn Python</a></li>
-        <li><a href="#learndatascience">Learn Data Science</a></li>
+        <li><a href="#learn-python">Learn Python</a></li>
+        <li><a href="#learn-data-science">Learn Data Science</a></li>
       </ul>
     <li><a href="#contribution">Contribution</a></li>
     <li><a href="#license">License</a></li>
