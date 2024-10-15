@@ -103,17 +103,13 @@ A programming environment is a space where you write, test, and run your code. T
 
 **- Local vs. Online Environments**
 
-You have two main choices:
-
-Local Environment: This is set up on your own computer. You'll need to install some software.
-Online Environment: This is hosted on the web. No installations needed. Just open a browser, go to a website, and start coding.
+  - Local Environment: This is set up on your own computer. You'll need to install some software.
+  - Online Environment: This is hosted on the web. No installations needed. Just open a browser, go to a website, and start coding.
 
 **- Python Files vs. Python Notebooks**
 
-You may use two types of Python files:
-
-Python File (.py): This is a standard file where you write Python code. It's like a text document but for Python scripts.
-Python Notebook (.ipynb): This is an interactive document where you can mix text, code, and outputs. It's great for experiments, data analysis, and teaching.
+  - Python File (.py): This is a standard file where you write Python code. It's like a text document but for Python scripts.
+  -Python Notebook (.ipynb): This is an interactive document where you can mix text, code, and outputs. It's great for experiments, data analysis, and teaching.
 
 ### Using Online Environment for Running Python
 In most of the DSDO modules, we will be using online environment (Google Colab) since it is easy to access and does not require any complex installation. And we will be using Python notebook since Colab basically is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs.
