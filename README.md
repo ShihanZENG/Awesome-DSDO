@@ -102,14 +102,14 @@ All the resources are Python-based. You are expected to install Python locally o
 
 A programming environment is a space where you write, test, and run your code. Think of it as a workshop where you have all the tools you need to build and test your projects.
 
-*Local vs. Online Environments*
+**- Local vs. Online Environments**
 
 You have two main choices:
 
 Local Environment: This is set up on your own computer. You'll need to install some software.
 Online Environment: This is hosted on the web. No installations needed. Just open a browser, go to a website, and start coding.
 
-*Python Files vs. Python Notebooks*
+**- Python Files vs. Python Notebooks**
 
 You may use two types of Python files:
 
@@ -129,7 +129,7 @@ Online environment might not be ideal. If you have more resources in your own ma
 
 If you want to run locally, here is the guidance:
 
-*Option 1: Installing Anaconda and Python and use Jupyter Notebook*
+**Option 1: Installing Anaconda and Python and use Jupyter Notebook**
 
 We are recommending installl Python through Anaconda distribution. This will simplify the package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS. This will make it much easier to install and use python and other add-ons.
 
@@ -139,7 +139,7 @@ Once it is downloaded, run the downloaded executable file to start installing. F
 
 With Anaconda, you can also access other text editor or IDE to edit and run your codes. For example, you can also use VSCode, or PyCharm or Spyder, up to your choice.
 
-*Option 2: Installing Python independently*
+**Option 2: Installing Python independently**
 
 1) Go to Python's official website. Download the latest version.
 2) Run the installer and follow the prompts.
@@ -164,6 +164,8 @@ If you are a beginner, we would suggest you install through Anaconda as it comes
 <!-- RESOURCES -->
 ## Resources
 
+### Learning Python
+According to the 2024 Developer Survey (Stack Overflow, 2024)(https://survey.stackoverflow.co/2024/technology#most-popular-technologies-language), Python is ranked No.3 as one of the most used programming languages in the developer community. Specifically, this survey revealed that Python is also the most learned coding language as it might be one of 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
